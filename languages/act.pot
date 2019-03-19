@@ -1,0 +1,1510 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Act\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-07 10:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: KlbTheme <berbatx13@gmail.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: tr_TR\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: ../archive.php:41 ../archive.php:67 ../archive.php:92 ../index.php:36 
+#: ../index.php:62 ../index.php:87 ../search.php:40 ../search.php:66 
+#: ../search.php:91 ../single.php:39 ../single.php:66 ../single.php:93
+msgid "No Posts Found"
+msgstr ""
+
+#: ../functions.php:173
+msgid "Meta Box"
+msgstr ""
+
+#: ../functions.php:178
+msgid "Portfolio Post Type"
+msgstr ""
+
+#: ../functions.php:183
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../functions.php:188
+msgid "Woocommerce"
+msgstr ""
+
+#: ../functions.php:198
+msgid "Theme Options"
+msgstr ""
+
+#: ../functions.php:203
+msgid "Klb Shortcode"
+msgstr ""
+
+#: ../functions.php:214
+msgid "Visual Composer"
+msgstr ""
+
+#: ../functions.php:225
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../functions.php:236
+msgid "Total Donations"
+msgstr ""
+
+#: ../functions.php:247
+msgid "Envato WordPress Toolkit"
+msgstr ""
+
+#: ../functions.php:258
+msgid "Demo Installation"
+msgstr ""
+
+#: ../functions.php:458
+msgid "Next"
+msgstr ""
+
+#: ../functions.php:479
+msgid "Read More"
+msgstr ""
+
+#: ../functions.php:499
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:501
+msgid "These are widgets for the Blog page."
+msgstr ""
+
+#: ../functions.php:510
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../functions.php:518
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:544
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:560
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../header.php:52
+msgid "Act"
+msgstr ""
+
+#: ../search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:3 ../searchform.php:5
+msgid "Search For"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:393 
+#: ../includes/class-tgm-plugin-activation.php:920 
+#: ../includes/class-tgm-plugin-activation.php:2626 
+#: ../includes/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:394 
+#: ../includes/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1027 
+#: ../includes/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3602 
+#: ../includes/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3602 
+#: ../includes/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/metaboxes.php:37
+msgid "Open as a Separate Page"
+msgstr ""
+
+#: ../includes/metaboxes.php:45
+msgid "Disable section from menu"
+msgstr ""
+
+#: ../includes/metaboxes.php:67
+msgid "Allow Categories"
+msgstr ""
+
+#: ../includes/metaboxes.php:76
+msgid "Allow Date"
+msgstr ""
+
+#: ../includes/metaboxes.php:85
+msgid "Allow Author Name"
+msgstr ""
+
+#: ../includes/metaboxes.php:94
+msgid "Allow Back to List"
+msgstr ""
+
+#: ../includes/metaboxes.php:117
+msgid "Blog Post Slider Images"
+msgstr ""
+
+#: ../includes/metaboxes.php:118
+msgid ""
+"Upload unlimited images for a slideshow - or only one to display a single "
+"image. <br /><br /><strong>Notice:</strong> The Preview Image will be the "
+"Image set as Featured Image."
+msgstr ""
+
+#: ../includes/metaboxes.php:252
+msgid "Audio Embed Code"
+msgstr ""
+
+#: ../includes/post-like.php:209 ../includes/post-like.php:260
+msgid "You Like:"
+msgstr ""
+
+#: ../includes/post-like.php:233
+msgid "You don't like anything yet."
+msgstr ""
+
+#: ../includes/post-like.php:300
+msgid "Today's Most Popular Posts"
+msgstr ""
+
+#: ../includes/post-like.php:339
+msgid "This Month's Most Popular Posts"
+msgstr ""
+
+#: ../includes/post-like.php:378
+msgid "This Week's Most Popular Posts"
+msgstr ""
+
+#: ../includes/post-like.php:397
+msgid "Most Popular Posts"
+msgstr ""
+
+#: ../includes/theme-options.php:92
+msgid "Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:113
+msgid "The size of the logo above"
+msgstr ""
+
+#: ../includes/theme-options.php:114 ../includes/theme-options.php:130
+msgid "You can set logo width."
+msgstr ""
+
+#: ../includes/theme-options.php:129
+msgid "The size of the logo below"
+msgstr ""
+
+#: ../includes/theme-options.php:157 
+#: ../includes/js_composer/shortcodes.php:982 
+#: ../includes/js_composer/shortcodes.php:1272
+msgid "Css"
+msgstr ""
+
+#: ../includes/theme-options.php:165
+msgid "Additional CSS"
+msgstr ""
+
+#: ../includes/theme-options.php:177
+msgid "Js"
+msgstr ""
+
+#: ../includes/theme-options.php:185
+msgid "Additional JS"
+msgstr ""
+
+#: ../includes/theme-options.php:197
+msgid "Genearal"
+msgstr ""
+
+#: ../includes/theme-options.php:230 ../includes/theme-options.php:309
+msgid "Hover"
+msgstr ""
+
+#: ../includes/theme-options.php:263
+msgid "Regular"
+msgstr ""
+
+#: ../includes/theme-options.php:357
+msgid "Blog Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:358
+msgid "Left Sidebar - Right Sidebar - Full Width Sections"
+msgstr ""
+
+#: ../includes/theme-options.php:373 ../includes/theme-options.php:516
+msgid "General"
+msgstr ""
+
+#: ../includes/theme-options.php:381
+msgid "On/Off Donate Button"
+msgstr ""
+
+#: ../includes/theme-options.php:411 ../includes/js_composer/shortcodes.php:809
+msgid "Select Button Type"
+msgstr ""
+
+#: ../includes/theme-options.php:412
+msgid ""
+"<strong>Modal Type:</strong> Popup window will be appeared.<br><strong>"
+"Default Type:</strong> You can set a url to redirect the button."
+msgstr ""
+
+#: ../includes/theme-options.php:426
+msgid "Modal Type"
+msgstr ""
+
+#: ../includes/theme-options.php:431
+msgid "Default Type"
+msgstr ""
+
+#: ../includes/theme-options.php:466 
+#: ../includes/js_composer/shortcodes.php:225 
+#: ../includes/js_composer/shortcodes.php:448
+msgid "Color"
+msgstr ""
+
+#: ../includes/theme-options.php:500
+msgid "Google Fonts"
+msgstr ""
+
+#: ../includes/theme-options.php:501
+msgid ""
+"Add Google Font and after the save settings follow these steps Dashboard > "
+"Appearance > Theme Options > Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:524
+msgid "Body Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:539
+msgid "H1 Title"
+msgstr ""
+
+#: ../includes/theme-options.php:547
+msgid "H1 Title Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:562
+msgid "H2 Title"
+msgstr ""
+
+#: ../includes/theme-options.php:570
+msgid "H2 Title Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:585
+msgid "H3 Title"
+msgstr ""
+
+#: ../includes/theme-options.php:593
+msgid "H3 Title Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:608
+msgid "H4 Title"
+msgstr ""
+
+#: ../includes/theme-options.php:616
+msgid "H4 Title Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:631
+msgid "H5 Title"
+msgstr ""
+
+#: ../includes/theme-options.php:639
+msgid "H5 Title Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:654
+msgid "H6 Title"
+msgstr ""
+
+#: ../includes/theme-options.php:663
+msgid "H6 Title Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:678
+msgid "P(Content)"
+msgstr ""
+
+#: ../includes/theme-options.php:686
+msgid "P(Content) Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:754
+msgid "Copyright"
+msgstr ""
+
+#: ../includes/theme-options.php:774
+msgid "Top Colors"
+msgstr ""
+
+#: ../includes/theme-options.php:794
+msgid "Bottom Colors"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:59
+msgid "Background Style"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:62 
+#: ../includes/js_composer/shortcodes.php:532 
+#: ../includes/js_composer/shortcodes.php:574 
+#: ../includes/js_composer/shortcodes.php:805
+msgid "Select Type"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:63
+msgid "Overlay Light"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:64
+msgid "Overlay No"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:66
+msgid "Select type of style for background."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:75
+msgid "CSS Animation"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:78 
+#: ../includes/js_composer/shortcodes.php:94
+msgid "No"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:79
+msgid "Top to bottom"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:80
+msgid "Bottom to top"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:81
+msgid "Left to right"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:82
+msgid "Right to left"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:83
+msgid "Appear from center"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:85
+msgid ""
+"Select type of animation for element to be animated when it \"enters\" the "
+"browsers viewport (Note: works only in modern browsers)."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:91
+msgid "CSS Animation Delay"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:95
+msgid "Delay 100"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:96
+msgid "Delay 200"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:97
+msgid "Delay 300"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:98
+msgid "Delay 400"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:99
+msgid "Delay 500"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:100
+msgid "Delay 600"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:101
+msgid "Delay 700"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:102
+msgid "Delay 800"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:103
+msgid "Delay 900"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:104
+msgid "Delay 1000"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:106
+msgid "Select Animation Delay Time"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:119
+msgid "Act Home Image"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:126 
+#: ../includes/js_composer/shortcodes.php:1341 
+#: ../includes/js_composer/shortcodes.php:1389
+msgid "Background"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:128
+msgid "Add a image for background."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:134
+msgid "Disable Overlay?"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:135
+msgid "You want to deactivate overlay?"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:136 
+#: ../includes/js_composer/shortcodes.php:866 
+#: ../includes/js_composer/shortcodes.php:1063
+msgid "Yes"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:142 
+#: ../includes/js_composer/shortcodes.php:285
+msgid "Text Interval"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:144 
+#: ../includes/js_composer/shortcodes.php:287
+msgid "Set Carousel interval for texts"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:150 
+#: ../includes/js_composer/shortcodes.php:265
+msgid "Carousel"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:154 
+#: ../includes/js_composer/shortcodes.php:269
+msgid "mycontent"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:160 
+#: ../includes/js_composer/shortcodes.php:275 
+#: ../includes/js_composer/shortcodes.php:320 
+#: ../includes/js_composer/shortcodes.php:706 
+#: ../includes/js_composer/shortcodes.php:1101 
+#: ../includes/js_composer/shortcodes.php:1362 
+#: ../includes/js_composer/shortcodes.php:1410
+msgid "Content"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:162 
+#: ../includes/js_composer/shortcodes.php:277
+msgid "Add Desciption for carousel item."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:167 
+#: ../includes/js_composer/shortcodes.php:440 
+#: ../includes/js_composer/shortcodes.php:628 
+#: ../includes/js_composer/shortcodes.php:816 
+#: ../includes/js_composer/shortcodes.php:1439
+msgid "URL (Link)"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:169 
+#: ../includes/js_composer/shortcodes.php:818
+msgid "Add Button for item"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:190
+msgid "Act Title"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:196 
+#: ../includes/js_composer/shortcodes.php:258 
+#: ../includes/js_composer/shortcodes.php:313 
+#: ../includes/js_composer/shortcodes.php:1006 
+#: ../includes/js_composer/shortcodes.php:1093
+msgid "Title"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:198 
+#: ../includes/js_composer/shortcodes.php:315
+msgid "Add title for the box."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:204 
+#: ../includes/js_composer/shortcodes.php:1355 
+#: ../includes/js_composer/shortcodes.php:1403
+msgid "Subtitle"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:206
+msgid "Add content for the title."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:211
+msgid "Text Alignment"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:214
+msgid "Select Align"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:215 
+#: ../includes/js_composer/shortcodes.php:942 
+#: ../includes/js_composer/shortcodes.php:959
+msgid "Left"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:216 
+#: ../includes/js_composer/shortcodes.php:960
+msgid "Center"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:217 
+#: ../includes/js_composer/shortcodes.php:943 
+#: ../includes/js_composer/shortcodes.php:961
+msgid "Right"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:219
+msgid "Select Text Alignment"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:227
+msgid "Select font color."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:233 
+#: ../includes/js_composer/shortcodes.php:881 
+#: ../includes/js_composer/shortcodes.php:905
+msgid "Border Color"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:235
+msgid "Select border color."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:252
+msgid "Act Carousel"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:260
+msgid "Add title for the shortcode."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:307
+msgid "Act Process Box"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:322
+msgid "Add content for the box."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:327 
+#: ../includes/js_composer/shortcodes.php:1108
+msgid "Icon library"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:329 
+#: ../includes/js_composer/shortcodes.php:1110
+msgid "Font Awesome"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:330 
+#: ../includes/js_composer/shortcodes.php:1111
+msgid "Open Iconic"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:331 
+#: ../includes/js_composer/shortcodes.php:1112
+msgid "Typicons"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:332 
+#: ../includes/js_composer/shortcodes.php:1113
+msgid "Entypo"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:333 
+#: ../includes/js_composer/shortcodes.php:1114
+msgid "Linecons"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:334 
+#: ../includes/js_composer/shortcodes.php:1115
+msgid "Mono Social"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:335 
+#: ../includes/js_composer/shortcodes.php:1116
+msgid "Elegant"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:338 
+#: ../includes/js_composer/shortcodes.php:1119
+msgid "Select icon library."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:343 
+#: ../includes/js_composer/shortcodes.php:360 
+#: ../includes/js_composer/shortcodes.php:376 
+#: ../includes/js_composer/shortcodes.php:392 
+#: ../includes/js_composer/shortcodes.php:407 
+#: ../includes/js_composer/shortcodes.php:921 
+#: ../includes/js_composer/shortcodes.php:1124 
+#: ../includes/js_composer/shortcodes.php:1141 
+#: ../includes/js_composer/shortcodes.php:1157 
+#: ../includes/js_composer/shortcodes.php:1173 
+#: ../includes/js_composer/shortcodes.php:1188 
+#: ../includes/js_composer/shortcodes.php:1427
+msgid "Icon"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:354 
+#: ../includes/js_composer/shortcodes.php:372 
+#: ../includes/js_composer/shortcodes.php:388 
+#: ../includes/js_composer/shortcodes.php:419 
+#: ../includes/js_composer/shortcodes.php:435 
+#: ../includes/js_composer/shortcodes.php:932 
+#: ../includes/js_composer/shortcodes.php:1135 
+#: ../includes/js_composer/shortcodes.php:1153 
+#: ../includes/js_composer/shortcodes.php:1169 
+#: ../includes/js_composer/shortcodes.php:1200 
+#: ../includes/js_composer/shortcodes.php:1216 
+#: ../includes/js_composer/shortcodes.php:1434
+msgid "Select icon from library."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:442
+msgid "Add Button for box"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:450
+msgid "Select background color."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:469
+msgid "Act Latest Blog"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:475 
+#: ../includes/js_composer/shortcodes.php:507 
+#: ../includes/js_composer/shortcodes.php:557 
+#: ../includes/js_composer/shortcodes.php:1013 
+#: ../includes/js_composer/shortcodes.php:1045
+msgid "Post Count"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:477 
+#: ../includes/js_composer/shortcodes.php:509 
+#: ../includes/js_composer/shortcodes.php:559
+msgid "Add Post Count for example:8"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:482 
+#: ../includes/js_composer/shortcodes.php:521 
+#: ../includes/js_composer/shortcodes.php:564 
+#: ../includes/js_composer/shortcodes.php:1021 
+#: ../includes/js_composer/shortcodes.php:1053
+msgid "Category"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:484 
+#: ../includes/js_composer/shortcodes.php:523 
+#: ../includes/js_composer/shortcodes.php:566
+msgid "Add a post category or write all"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:500
+msgid "Act Blog Masonry"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:514
+msgid "Excerpt Size"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:516
+msgid "Add Post Excerpt Size for example : 15"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:528
+msgid "Order"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:530
+msgid "Designates the ascending or descending order."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:533
+msgid "DESC"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:534
+msgid "ASC"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:551
+msgid "Act Latest Events"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:571
+msgid "Date Type"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:575
+msgid "Start Date"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:576
+msgid "End Date"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:578
+msgid "Select one of the both Start date and End date to be displaied."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:594
+msgid "Act Volunteer_Box"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:600 
+#: ../includes/js_composer/shortcodes.php:1348 
+#: ../includes/js_composer/shortcodes.php:1396
+msgid "Name"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:602
+msgid "Add person name"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:607
+msgid "Message"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:609
+msgid "Add warning message for the box"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:614
+msgid "Description"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:616
+msgid "Add descriptin for the person"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:621
+msgid "Image"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:623
+msgid "Add a image for volunteer box."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:630
+msgid "Add a url for image box"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:646
+msgid "Act Campaign Form"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:652 
+#: ../includes/js_composer/shortcodes.php:692 
+#: ../includes/js_composer/shortcodes.php:738
+msgid "Campaign Id"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:654
+msgid ""
+"Add one of the available id of the campaign(Total Donations > Campaign) "
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:671
+msgid "Act Campaign Box"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:677
+msgid "Campaign Image"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:679
+msgid "Add Campaign Image"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:684 
+#: ../includes/js_composer/shortcodes.php:730
+msgid "Campaign Title"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:686 
+#: ../includes/js_composer/shortcodes.php:732
+msgid ""
+"Add one of the available name of the campaign(Total Donations > Campaign)"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:694 
+#: ../includes/js_composer/shortcodes.php:740
+msgid "Add one of the available id of the campaign(Total Donations > Campaign)"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:699 
+#: ../includes/js_composer/shortcodes.php:745
+msgid "Due Date"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:701 
+#: ../includes/js_composer/shortcodes.php:747
+msgid "Add due date for example : 25 December 2016"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:708
+msgid "Text area with default WordPress WYSIWYG Editor"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:724
+msgid "Act Fundraise Bar"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:752
+msgid "Text Goal"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:754 
+#: ../includes/js_composer/shortcodes.php:762 
+#: ../includes/js_composer/shortcodes.php:770 
+#: ../includes/js_composer/shortcodes.php:778
+msgid "Translate the word for your own language."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:755 
+#: ../includes/js_composer/shortcodes.php:763 
+#: ../includes/js_composer/shortcodes.php:771 
+#: ../includes/js_composer/shortcodes.php:779
+msgid "Translation"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:760
+msgid "Text of our goal"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:768
+msgid "Text Days Left"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:776
+msgid "Text Donations"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:796
+msgid "Act Button"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:802
+msgid "Button Type"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:806 
+#: ../includes/js_composer/shortcodes.php:973
+msgid "Default"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:807
+msgid "Modal(Popup)"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:828 
+#: ../includes/js_composer/shortcodes.php:1301
+msgid "Button Text"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:830
+msgid "Add a text for button.for example 'mybutton'"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:840
+msgid "Modal Id"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:842
+msgid "Add a id for modal popup.for example 'mymodal1'."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:852
+msgid "Modal content"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:854
+msgid "Add content for modal popup screen."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:864
+msgid "Add Icon?"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:865
+msgid "You want to use icon on button?"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:873 
+#: ../includes/js_composer/shortcodes.php:897
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:874
+msgid "Set background color for act button"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:882
+msgid "Set border color for act button"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:889 
+#: ../includes/js_composer/shortcodes.php:913
+msgid "Font Color"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:890
+msgid "Set font color for act button"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:898
+msgid "Set hover background color for act button"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:906
+msgid "Set Hover border color for act button"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:914
+msgid "Set Hover font color for act button"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:938
+msgid "Icon Alignment"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:941 
+#: ../includes/js_composer/shortcodes.php:958
+msgid "Select"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:949
+msgid "Select icon alignment."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:955
+msgid "Button Alignment"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:963
+msgid "Select button alignment."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:969
+msgid "Button Size"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:972
+msgid "Select Size"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:974
+msgid "Big"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:976
+msgid "Select predefined list design "
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:984 
+#: ../includes/js_composer/shortcodes.php:1274
+msgid "Design options"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1001
+msgid "Act Portfolio"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1008
+msgid "Add project title"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1015 
+#: ../includes/js_composer/shortcodes.php:1047
+msgid "Add Post Count for example:5"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1023 
+#: ../includes/js_composer/shortcodes.php:1055
+msgid "Add category slug or use all"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1039
+msgid "Act Portfolio Two"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1061
+msgid "Activate Category Filter?"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1062
+msgid "You want to use filter with categories?"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1068
+msgid "All"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1070
+msgid "Translate All button"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1087
+msgid "Act Action Box"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1095
+msgid "Add a title for action box."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1103
+msgid "Add content for action box"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1232
+msgid "Act Google Map"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1239
+msgid "Latitude"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1241
+msgid "Add latitude for google map"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1246
+msgid "Longitude"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1248
+msgid "Add longitude for google map"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1253
+msgid "Zoom"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1255
+msgid "Adjust zoom for google map"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1260
+msgid "Height"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1262
+msgid "Adjust height for google map"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1266
+msgid "Map Icon"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1268
+msgid "Add a image for map marker"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1292
+msgid "Act Toggle Bar"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1303
+msgid "Add a text for toggle button."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1308
+msgid "Toggle Id"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1310
+msgid "Add a unique id for toggle.for example; mytoggle1"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1334
+msgid "Act Donor Box"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1343
+msgid "Add a image for donor box."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1350
+msgid "Add donor name."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1357 
+#: ../includes/js_composer/shortcodes.php:1405
+msgid "Add subtitle for the box."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1364 
+#: ../includes/js_composer/shortcodes.php:1412
+msgid "Add content for fonor box."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1382
+msgid "Act Team Box"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1391
+msgid "Add a image for team box."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1398
+msgid "Add a team member name."
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1416
+msgid "Socials"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1420
+msgid "mysocial"
+msgstr ""
+
+#: ../includes/js_composer/shortcodes.php:1441
+msgid "Add a url for button."
+msgstr ""
+
+#: ../post-format/single-audio.php:13 ../post-format/single-gallery.php:13 
+#: ../post-format/single-video.php:12 ../post-format/single.php:13
+msgid "Back to list"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:82
+msgid "Available on backorder"
+msgstr ""

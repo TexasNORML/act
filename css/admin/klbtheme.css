@@ -1,0 +1,33 @@
+.top-nav-collapse{
+top: 30px !important;
+
+}
+
+.navbar-fixed-top{
+top: 30px !important;
+
+}
+
+#setting-error-act {display: block !important;}
+
+#option-tree-settings-api a:focus{
+box-shadow:none;
+}
+
+.bottom-bar-responsive.bg-brand-secondary-darkest{
+bottom:0;
+}
+
+.type-radio-image img[alt="Dual Sidebar"],
+.type-radio-image img[alt="Left Dual Sidebar"],
+.type-radio-image img[alt="Right Dual Sidebar"] {
+    display: none;
+}
+
+.appearance_page_ot-theme-options .ui-widget-header,
+.appearance_page_ot-theme-options .ui-state-default,
+.appearance_page_ot-theme-options .ui-widget-content .ui-state-default,
+.appearance_page_ot-theme-options .ui-widget-header .ui-state-default {
+    background: none;
+    border: none;
+}
